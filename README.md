@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my_flutterapp1
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# my_flutterApp
+>>>>>>> 3121dc676c513a65e091ac31fb7975c5e8f97bd5
